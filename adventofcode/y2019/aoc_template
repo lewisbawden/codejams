@@ -1,0 +1,21 @@
+import aoc
+import time
+
+
+def day_xx_part_1(data):
+
+    return None
+
+
+def day_xx_part_2(data):
+
+    return None
+
+
+if __name__ == "__main__":
+    t0 = time.time()
+
+    data = aoc.load_data(r"day_xx_data.txt")
+    print(day_xx_part_1(data))
+
+    print(time.time() - t0)
